@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8783],{4206:(_,e,n)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/profile/[id]/following",function(){return n(82408)}])},82408:(_,e,n)=>{"use strict";n.r(e),n.d(e,{default:()=>u});let u=n(71779).A}},_=>{var e=e=>_(_.s=e);_.O(0,[70,8916,1779,636,6593,8792],()=>e(4206)),_N_E=_.O()}]);

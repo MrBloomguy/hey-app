@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2497],{94198:(_,u,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/profile/[id]/mutuals",function(){return e(19458)}])},19458:(_,u,e)=>{"use strict";e.r(u),e.d(u,{default:()=>s});let s=e(71779).A}},_=>{var u=u=>_(_.s=u);_.O(0,[70,8916,1779,636,6593,8792],()=>u(94198)),_N_E=_.O()}]);

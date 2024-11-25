@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6094],{34648:(_,s,u)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/lists/[id]/accounts",function(){return u(41909)}])},41909:(_,s,u)=>{"use strict";u.r(s),u.d(s,{default:()=>e});let e=u(25102).A}},_=>{var s=s=>_(_.s=s);_.O(0,[70,8916,5102,636,6593,8792],()=>s(34648)),_N_E=_.O()}]);
